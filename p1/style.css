@@ -1,0 +1,35 @@
+body{
+    
+    background-color: #0A400C;
+}
+#heading{
+    color:#FEFAE0;
+    text-align: center;
+    font-weight: 200;
+    font-size: 50px;
+    font-family:fantasy;
+    text-decoration: underline;
+    letter-spacing: 6px;
+    background-color: red;
+    width:max-content;
+}
+.para{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    word-spacing: 5px;
+    text-decoration: overline;
+}
+#para1{
+    color:#819067;
+    text-align: right;
+    text-transform: capitalize;
+}
+#para2{
+    color: #B1AB86;
+}
+#box{
+    height: 10px;
+    color:aqua;
+    background-color: rgb(255, 127, 127);
+    border: 2px 3px 5px 10px solid;
+}
