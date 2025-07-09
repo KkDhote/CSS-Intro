@@ -43,12 +43,13 @@ body{
     align-items: center;
 }
 .box{
-    height: 80%;
-    width: 20%;
+    height: 300px;
+    width: 300px;
     display:flex;
     justify-content: center;
     align-items: center;
     border: 1px solid white;
     color:white;
-    background-color: rgb(221, 106, 64);
+    background:linear-gradient(to right,yellow,red,purple);
+    border-radius: 50%;
 }
